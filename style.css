@@ -1,24 +1,17 @@
-
-
-body {
+body{
     background-color:rgb(253, 251, 251);
 }
-
-cabecalho {
-    top: 0;
-    position: fixed;
+#cabecalho{
+    top:0;
+    position:fixed;
 }
-
-#article-aside article, aside {
+#article-aside article,aside{
     display:inline-block;
     margin:100px;
     height:100px;
     width:600px;
-
 }
-
 #minha_foto{
     border-radius:100%;
 }
 
-#
