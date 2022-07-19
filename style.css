@@ -1,7 +1,7 @@
 
 
 body {
-    background-color:rgb(253, 251, 251) ;
+    background-color:rgb(253, 251, 251);
 }
 
 cabecalho {
@@ -9,9 +9,15 @@ cabecalho {
 }
 
 #article-aside article, aside {
-    display: inline-block;
-    margin: 100px;
-    height: 100px;
-    width: 600px;
+    display:inline-block;
+    margin:100px;
+    height:100px;
+    width:600px;
 
 }
+
+#minha_foto{
+    border-radius:100%;
+}
+
+#
